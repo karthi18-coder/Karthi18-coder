@@ -14,7 +14,8 @@ Hi, I'm Karthikeyan.G 👋
 
 ## Projects
 - Elysium Training Institute Website
-- Personal Portfolio Website
+- Pond Guardian Project
+- IBVAP CCTV BORDER SURVILLANCE USING AI DETECTION
 
 ## Currently Learning
 - JavaScript
