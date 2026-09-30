@@ -8,9 +8,6 @@ Hi, I'm Karthikeyan.G 👋
 - CSS
 - JavaScript
 - Python
-- Java
-- react.js
-- bootstrap
 
 ## Projects
 - Elysium Training Institute Website
